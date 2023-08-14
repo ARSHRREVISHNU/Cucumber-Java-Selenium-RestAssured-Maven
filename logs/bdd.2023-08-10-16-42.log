@@ -1,0 +1,80 @@
+16:42:20.075 INFO  ConfigManager - Env value is not given and setting it to the default: qaenv
+16:42:20.422 INFO  ConfigManager - max_timeout:60
+16:42:20.422 INFO  ConfigManager - polling_time:5
+16:42:20.422 INFO  ConfigManager - context_path:/api
+16:42:20.422 INFO  ConfigManager - url_encoding_enabled:true
+16:42:20.422 INFO  ConfigManager - follow_redirects:false
+16:42:20.422 INFO  ConfigManager - relaxed_https:true
+16:42:20.422 INFO  ConfigManager - host_uri:https://reqres.in
+16:42:22.035 INFO  ConfigManager - Env value setting to the : qaenv
+16:42:22.040 INFO  ConfigManager - max_timeout:60
+16:42:22.041 INFO  ConfigManager - polling_time:5
+16:42:22.041 INFO  ConfigManager - context_path:/api
+16:42:22.041 INFO  ConfigManager - url_encoding_enabled:true
+16:42:22.042 INFO  ConfigManager - follow_redirects:false
+16:42:22.042 INFO  ConfigManager - relaxed_https:true
+16:42:22.042 INFO  ConfigManager - host_uri:https://reqres.in
+16:42:22.701 INFO  ConfigManager - Env value setting to the : qaenv
+16:42:22.707 INFO  ConfigManager - max_timeout:60
+16:42:22.707 INFO  ConfigManager - polling_time:5
+16:42:22.707 INFO  ConfigManager - context_path:/api
+16:42:22.707 INFO  ConfigManager - url_encoding_enabled:true
+16:42:22.707 INFO  ConfigManager - follow_redirects:false
+16:42:22.707 INFO  ConfigManager - relaxed_https:true
+16:42:22.707 INFO  ConfigManager - host_uri:https://reqres.in
+16:42:22.933 INFO  ConfigManager - Env value setting to the : qaenv
+16:42:22.946 INFO  ConfigManager - max_timeout:60
+16:42:22.946 INFO  ConfigManager - polling_time:5
+16:42:22.946 INFO  ConfigManager - context_path:/api
+16:42:22.946 INFO  ConfigManager - url_encoding_enabled:true
+16:42:22.946 INFO  ConfigManager - follow_redirects:false
+16:42:22.946 INFO  ConfigManager - relaxed_https:true
+16:42:22.946 INFO  ConfigManager - host_uri:https://reqres.in
+16:42:23.283 INFO  ConfigManager - Env value setting to the : qaenv
+16:42:23.293 INFO  ConfigManager - max_timeout:60
+16:42:23.293 INFO  ConfigManager - polling_time:5
+16:42:23.293 INFO  ConfigManager - context_path:/api
+16:42:23.293 INFO  ConfigManager - url_encoding_enabled:true
+16:42:23.293 INFO  ConfigManager - follow_redirects:false
+16:42:23.294 INFO  ConfigManager - relaxed_https:true
+16:42:23.294 INFO  ConfigManager - host_uri:https://reqres.in
+16:42:23.407 INFO  ConfigManager - Env value setting to the : qaenv
+16:42:23.410 INFO  ConfigManager - max_timeout:60
+16:42:23.411 INFO  ConfigManager - polling_time:5
+16:42:23.411 INFO  ConfigManager - context_path:/api
+16:42:23.411 INFO  ConfigManager - url_encoding_enabled:true
+16:42:23.411 INFO  ConfigManager - follow_redirects:false
+16:42:23.411 INFO  ConfigManager - relaxed_https:true
+16:42:23.411 INFO  ConfigManager - host_uri:https://reqres.in
+16:42:23.514 INFO  ConfigManager - Env value setting to the : qaenv
+16:42:23.520 INFO  ConfigManager - max_timeout:60
+16:42:23.521 INFO  ConfigManager - polling_time:5
+16:42:23.521 INFO  ConfigManager - context_path:/api
+16:42:23.521 INFO  ConfigManager - url_encoding_enabled:true
+16:42:23.521 INFO  ConfigManager - follow_redirects:false
+16:42:23.521 INFO  ConfigManager - relaxed_https:true
+16:42:23.521 INFO  ConfigManager - host_uri:https://reqres.in
+16:42:23.692 INFO  ConfigManager - Env value setting to the : qaenv
+16:42:23.696 INFO  ConfigManager - max_timeout:60
+16:42:23.696 INFO  ConfigManager - polling_time:5
+16:42:23.696 INFO  ConfigManager - context_path:/api
+16:42:23.697 INFO  ConfigManager - url_encoding_enabled:true
+16:42:23.697 INFO  ConfigManager - follow_redirects:false
+16:42:23.697 INFO  ConfigManager - relaxed_https:true
+16:42:23.697 INFO  ConfigManager - host_uri:https://reqres.in
+16:42:24.398 INFO  ConfigManager - Env value setting to the : qaenv
+16:42:24.401 INFO  ConfigManager - max_timeout:60
+16:42:24.401 INFO  ConfigManager - polling_time:5
+16:42:24.401 INFO  ConfigManager - context_path:/api
+16:42:24.401 INFO  ConfigManager - url_encoding_enabled:true
+16:42:24.401 INFO  ConfigManager - follow_redirects:false
+16:42:24.401 INFO  ConfigManager - relaxed_https:true
+16:42:24.401 INFO  ConfigManager - host_uri:https://reqres.in
+16:42:24.540 INFO  ConfigManager - Env value setting to the : qaenv
+16:42:24.556 INFO  ConfigManager - max_timeout:60
+16:42:24.556 INFO  ConfigManager - polling_time:5
+16:42:24.557 INFO  ConfigManager - context_path:/api
+16:42:24.557 INFO  ConfigManager - url_encoding_enabled:true
+16:42:24.557 INFO  ConfigManager - follow_redirects:false
+16:42:24.557 INFO  ConfigManager - relaxed_https:true
+16:42:24.557 INFO  ConfigManager - host_uri:https://reqres.in
